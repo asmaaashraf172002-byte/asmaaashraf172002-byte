@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Asmaa Ashraf 👋
 
-<!--
-**asmaaashraf172002-byte/asmaaashraf172002-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Backend Developer | Node.js | Express.js | MongoDB
 
-Here are some ideas to get you started:
+I'm a Systems and Computers Engineering graduate from Al-Azhar University, passionate about backend development and building practical web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Skills
+- **Languages:** JavaScript
+- **Backend:** Node.js, Express.js, REST APIs
+- **Database:** MongoDB, Mongoose
+- **Authentication:** JWT, bcrypt
+- **Tools:** Git, GitHub, Postman
+- **Currently Learning:** NestJS
+
+### 🚀 Featured Project
+**Business Hub**
+
+A full-stack web application built with React, Vite, Node.js, Express.js, and MongoDB.
+
+[View Business Hub Repository](https://github.com/asmaaashraf172002-byte/Business-Hub)
+
+### 🎯 Career Goal
+Seeking Junior Backend Developer opportunities and internships to apply my skills, learn from experienced developers, and contribute to real-world projects.
+
+### 📫 Connect With Me
+- GitHub: [@asmaaashraf172002-byte](https://github.com/asmaaashraf172002-byte)
+- Email: asmaaashraf172002@gmail.com
+
